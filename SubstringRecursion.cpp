@@ -1,4 +1,5 @@
-// substrings using recurssion 
+// substrings using recurssion  
+//find all the substring of string using recursion
 #include<iostream>
 using namespace std;
 void Subsequence(char *input,int i,char *output,int j){

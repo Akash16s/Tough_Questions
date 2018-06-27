@@ -1,4 +1,9 @@
 // Nstairs
+/*
+There are n stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 ,2 stair or 3 stairs at a time. Count the number of ways, the person can reach the top.
+
+stairs.
+*/
 #include <iostream>
 using namespace std;
 

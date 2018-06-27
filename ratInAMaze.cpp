@@ -1,4 +1,4 @@
-// RatInMaze
+// RatInMaze   find a way for rat till end
 #include <iostream>
 using namespace std;
 

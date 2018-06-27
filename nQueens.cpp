@@ -1,4 +1,8 @@
 // Nqueen
+/*
+N Queens Problem is a famous puzzle in which n-queens are to be placed on a nxn chess board such that no
+two queens are in the same row, column or diagonal.
+*/
 #include <iostream>
 using namespace std;
 
